@@ -1,6 +1,6 @@
 winenv/
 __pycache__
-.env
+
 uploads/
 reports/
 nohup.out
